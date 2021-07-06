@@ -3,7 +3,7 @@
 Esta pasta tem o objetivo de me ajudar a praticar Git e utilizar o Github melhorar
 as minhas habilidades de versionamento de software. :computer:
 
-Mas, de brinde, dentro desse repositório, há uma receita bem bacana de como fazer
+Mas de brinde, dentro desse repositório, há uma receita bem bacana de como fazer
 
 um café com leite (Caso você goste).
 
